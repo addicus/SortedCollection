@@ -20,6 +20,9 @@ public class StockList {
     public StockList() {
         this.list = new LinkedHashMap<>();
     }
+    public void myMethod(){
+    	
+    }
 
     public int addStock(StockItem item) {
         if(item != null) {

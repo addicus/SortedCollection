@@ -21,7 +21,7 @@ public class Main {
 
         temp = new StockItem("cake", 1.10, 7);
         stockList.addStock(temp);
-
+//test comment
         temp = new StockItem("car", 12.50, 2);
         stockList.addStock(temp);
 
